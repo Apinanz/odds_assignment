@@ -32,9 +32,10 @@ Please follow these component before code!
 There are 2 methods
 1. Clone my project. You can compile it using the method of the program you use.
 2. Online Python Compiler via [replit_oods_assignment](https://replit.com/@Apinanz/TestDrivenDevelopment#main.py) using as follows
-    - Press Run button
-    - Input to command field [Only int,not more than 1 million]!!
-    - Press Generate button. The program will show all the results.
+    - [ WARNING ] Sometimes the GUI display screen is cut off. You must expand by yourself.!!
+      - Press Run button
+      - Input to command field [Only int,not more than 1 million]!!
+      - Press Generate button. The program will show all the results. 
             
 
     
