@@ -21,7 +21,7 @@ Please follow these component before code!
    6. funF is the last step of work. It will take the result from funE convert String to int.
       * Ex. ‘Odd1’ = 1, ’Even2’ = 2 , ’Odd3’ = 3, … ‘Odd1Even2’ = 12
     
-* def calculato
+* def calculator
     - This function compiles a list of all answers. 
     - This function works only when a command is entered via the GUI with the "order" parameter being the next handler.
 
