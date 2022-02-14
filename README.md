@@ -1,20 +1,20 @@
-# ODDS_assignment Test Driven Development
+# ODDS_Assignment Test Driven Development
 
 Please follow these component before code!
 
 * Class TestDrivenDevelopment
     * funA is the first step of work. When the user inputs command of int, it will convert int to String. 
-      Ex.  1 = ‘Odd1’, 2 = ’Even2’, 3 = ’Odd3’, … 12 = ‘Odd1Even2’
+      * Ex. 1 = ‘Odd1’, 2 = ’Even2’, 3 = ’Odd3’, … 12 = ‘Odd1Even2’
     * funB is the second step of work. It will take the result from funA convert String to String. 
-      Ex.  ‘Odd1’ = ‘DDO1’, ‘Even2’ = ‘NEVE2’ … 12 = ‘DDO1NEVE2’
+      * Ex. ‘Odd1’ = ‘DDO1’, ‘Even2’ = ‘NEVE2’ … 12 = ‘DDO1NEVE2’
     * funC is the third step of work. It will take the result from funB convert String to String of ASCII Code.
-      Ex.  ‘DDO1’ = ‘6868791’, ‘NEVE2’ = ‘786986692’, … 12 = ‘6868791786986692’
+      * Ex. ‘DDO1’ = ‘6868791’, ‘NEVE2’ = ‘786986692’, … 12 = ‘6868791786986692’
     * funD is the fouth step of work. It will take the result from funC convert String ASCII Code to String.
-      Ex.  ‘6868791’=‘DDO1’, ‘786986692’=‘NEVE2’, … ‘6868791786986692’ = ‘DDO1NEVE2’
+      * Ex. ‘6868791’=‘DDO1’, ‘786986692’=‘NEVE2’, … ‘6868791786986692’ = ‘DDO1NEVE2’
     * funE is the five step of work. It will take the result from funD convert String to String.
-      Ex.  ‘DDO1’ = ‘Odd1’, ‘NEVE2’ = ‘Even2’… ‘DDO1NEVE2’ = ‘Odd1Even2’
+      * Ex. ‘DDO1’ = ‘Odd1’, ‘NEVE2’ = ‘Even2’… ‘DDO1NEVE2’ = ‘Odd1Even2’
     * funF is the last step of work. It will take the result from funE convert String to int.
-      Ex.  ‘Odd1’ = 1, ’Even2’ = 2 , ’Odd3’ = 3, … ‘Odd1Even2’ = 12
+      * Ex. ‘Odd1’ = 1, ’Even2’ = 2 , ’Odd3’ = 3, … ‘Odd1Even2’ = 12
     
 * def calculato
     - This function compiles a list of all answers. 
